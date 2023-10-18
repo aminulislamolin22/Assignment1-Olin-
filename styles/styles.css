@@ -1,0 +1,83 @@
+/* -----Shared Styles----- */
+.primary-btn {
+    padding: 20px 40px;
+    background-color: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/* -----Header Section Styles----- */
+.header {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.header-content {
+    margin: 100px 0 100px 240px;
+}
+
+.header h2 {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.header p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.Tulip {
+    margin: 50px 240px 0 0;
+}
+
+/* -----fEATURED sECTION----- */
+
+.featured {
+    margin: 120px 240px;
+}
+
+.featured-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.featured-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.featured-flower {
+    display: flex;
+    justify-content: center;
+}
+
+.Pink-flower-tree {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 24px;
+    padding: 25px, 75px;
+}
+
+.Yellow-flower-tree {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-left: 24px;
+    padding: 50px 40px;
+}
+
+.Different-flower-tree {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 75px 30px;
+}
