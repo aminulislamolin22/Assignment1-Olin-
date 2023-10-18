@@ -66,20 +66,21 @@
 .Pink-flower-tree {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    margin-right: 24px;
-}
-
-.Yellow-flower-tree {
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);
-    margin-left: 24px;
-    padding: 110 78 0px 78px;
+    padding: 110px 78px 0px 78px;
 }
 
 .Different-flower-tree {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 117px 47px 47px 51px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.Yellow-flower-tree {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0 75px;
 }
 
 .featured-flower p {
